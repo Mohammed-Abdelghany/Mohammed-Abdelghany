@@ -1,9 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm Muhammed Abd El-Ghany
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
-
-<h3 align="center">💻 A Passionate Backend Developer from Egypt 🇪🇬</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Backend+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Passionate+about+Laravel+%26+APIs" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammed-abdelghany&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -11,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-abdelghany&theme=onedark" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-abdelghany&theme=onedark&margin-w=10" />
   </a>
 </p>
 
@@ -45,15 +42,9 @@
 
 ### 🧑‍💻 Connect With Me
 <p align="left">
-  <a href="https://dev.to/muahmmed_div" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/muhammed-abd-el-ghany-640716318" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mohamed.abdlghany.98" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
+  <a href="https://dev.to/muahmmed_div" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/muhammed-abd-el-ghany-640716318" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/mohamed.abdlghany.98" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
 
 ---
