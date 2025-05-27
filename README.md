@@ -21,6 +21,10 @@
 
 - 📫 How to reach me **muhammedabdelghany6@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/muahmmed_div" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muahmmed_div" height="30" width="40" /></a>
@@ -35,3 +39,5 @@
 <p><a href="https://www.buymeacoffee.com/Moo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Moo" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-abdelghany&show_icons=true&locale=en&layout=compact" alt="mohammed-abdelghany" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-abdelghany&" alt="mohammed-abdelghany" /></p>
