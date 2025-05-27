@@ -1,5 +1,6 @@
+<!-- Header with animated typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Backend+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Passionate+about+Laravel+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Backend+Developer+%7C+Laravel+%7C+PHP+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,39 +9,27 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-abdelghany&theme=onedark&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-abdelghany&theme=onedark&margin-w=10" alt="trophies" />
   </a>
 </p>
 
 ---
 
-🚀 **Current Focus**  
-- 🔭 Working on: `E-Commerce`  
-- 🌱 Learning: `Advanced Laravel`  
-- 🤝 Looking for collaboration on: `Laravel & PHP projects`  
-- 📚 Exploring: `API integrations & advanced Laravel concepts`
+## 🚀 About Me
+
+- 🔭 I’m currently working on **E-Commerce**
+- 🌱 I’m currently learning **Advanced Laravel**
+- 👯 I’m looking to collaborate on **Laravel and PHP projects**
+- 🤝 I’m looking for help with **Advanced Laravel concepts and API integrations**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohammed-Abdelghany)
+- 📝 I write on [LinkedIn](https://www.linkedin.com/in/muhammed-abd-el-ghany-640716318/)
+- 💬 Ask me about **PHP, Laravel, MySQL, API Development**
+- 📫 Reach me at **muhammedabdelghany6@gmail.com**
 
 ---
 
-🧠 **Ask Me About**  
-`PHP`, `Laravel`, `MySQL`, `API Development`, `Backend Architecture`
+## 📬 Connect with Me
 
----
-
-📫 **How to reach me**  
-📧 [muhammedabdelghany6@gmail.com](mailto:muhammedabdelghany6@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-abd-el-ghany-640716318/)  
-📂 [My Projects](https://github.com/Mohammed-Abdelghany)
-
----
-
-📝 **Blog Posts**  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🧑‍💻 Connect With Me
 <p align="left">
   <a href="https://dev.to/muahmmed_div" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/muhammed-abd-el-ghany-640716318" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -49,23 +38,26 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,vscode" alt="skills" />
 </p>
 
 ---
 
-### ☕ Support Me
+## ☕ Support Me
+
 <p>
   <a href="https://www.buymeacoffee.com/Moo">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-abdelghany&layout=compact&theme=tokyonight" />
 </p>
