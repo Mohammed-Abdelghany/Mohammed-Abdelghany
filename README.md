@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **E-Commerce**
-- 🌱 I’m currently learning **Advanced Laravel**
+- 🔭 I’m currently working on *Dentist App*
+- 🌱 I’m currently learning **Java && Spring**
 - 👯 I’m looking to collaborate on **Laravel and PHP projects**
 - 🤝 I’m looking for help with **Advanced Laravel concepts and API integrations**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohammed-Abdelghany)
