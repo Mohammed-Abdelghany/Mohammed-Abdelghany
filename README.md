@@ -1,20 +1,18 @@
 <!-- Header with animated typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Backend+Developer+%7C+Laravel+%7C+PHP+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Backend+Developer+%7C+Laravel+%7C+PHP+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Exploring+Java+Spring+%26+Angular;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammed-abdelghany&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-
-
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on *Dentist App*
-- 🌱 I’m currently learning **Java && Spring**
+- 🌱 I’m currently learning **Java, Spring, and Angular**
 - 👯 I’m looking to collaborate on **Laravel and PHP projects**
 - 🤝 I’m looking for help with **Advanced Laravel concepts and API integrations**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohammed-Abdelghany)
@@ -37,7 +35,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,angular,java,spring,git,vscode" alt="skills" />
 </p>
 
 ---
