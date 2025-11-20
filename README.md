@@ -29,19 +29,22 @@ Currently, I'm expanding my skillset by exploring **Java, Spring Boot, and Angul
 ## 🛠️ Tech Stack & Skills
 
 **Backend & Frameworks:**
-- PHP | Laravel | Java | Spring Boot
+- PHP | Laravel | Java | Spring Framework | Spring Boot | Servlet | JSP
 
 **Databases & Data:**
-- MySQL | Query Optimization | Database Design
+- MySQL | Oracle Database | Query Optimization | Database Design
 
 **Frontend & UI:**
-- Angular | JavaScript | HTML | CSS
+- Angular | JavaScript | HTML | CSS | JSP | Servlet
+
+**Backend Technologies:**
+- Spring Framework | Spring Core | Spring Boot
 
 **Tools & Development:**
 - Git | GitHub | VS Code | RESTful APIs | API Integration
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,angular,java,spring,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,angular,java,spring,git,vscode,oracle" alt="Tech Stack" />
 </p>
 
 ---
