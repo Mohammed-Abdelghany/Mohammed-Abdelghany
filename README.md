@@ -1,25 +1,8 @@
 <div align="center">
   
   <!-- Premium Header Animation -->
-<p align="center">
-  Hi 👋, I'm <b>Muhammed Abd El-Ghany</b>
-  <br/><br/>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <br/><br/>
-  Passionate about Clean Code and APIs | Exploring Java, Spring & Angular | Let's build something great together 💻
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Software+Engineer+%7C+Java+%7C+PHP+%7C+Spring+Boot+%7C+Laravel+%7C+Angular+%7C+Oracle+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Exploring+Java+Spring+%26+Angular;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
+<br/>
 
   
   <!-- Animated Welcome Badge -->
