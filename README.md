@@ -64,7 +64,7 @@ While building my portfolio, I'm focusing on creating meaningful projects that d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-abdelghany&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=mohammed-abdelghany&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
