@@ -1,8 +1,9 @@
 <div align="center">
   
   <!-- Premium Header Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Software+Engineer+%7C+Java+%7C+PHP+%7C+Spring+Boot+%7C+Laravel+%7C+Angular+%7C+Oracle+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Exploring+Java+Spring+%26+Angular;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Abd+El-Ghany;Software+Engineer;Languages:+Java+%7C+PHP;Frameworks:+Spring+Boot+%7C+Laravel+%7C+Angular;Databases:+Oracle+%7C+MySQL;Passionate+about+Clean+Code+and+APIs;Exploring+Java+Spring+%26+Angular;Let's+build+something+great+together+%F0%9F%92%BB" alt="Typing SVG" />
 <br/>
+
 
   
   <!-- Animated Welcome Badge -->
