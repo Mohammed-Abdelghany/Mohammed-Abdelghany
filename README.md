@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Muhammed%20Abd%20El-Ghany&fontSize=40&fontColor=00E5FF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Angular&descAlignY=58&descSize=16&descColor=7FDBFF&animation=fadeIn" />
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=1000000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=Muhammed+Abd+El-Ghany)
+
+![subheader](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1000000&color=7FDBFF&center=true&vCenter=true&width=800&height=40&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot+%7C+Angular)
 
 </div>
 
@@ -191,6 +193,6 @@ public class MuhammedAbdelGhany implements Developer {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn" />
+![footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=1&pause=1000000&color=555555&center=true&vCenter=true&width=800&height=60&lines=Thanks+for+visiting+my+profile+👋)
 
 </div>
