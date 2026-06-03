@@ -102,16 +102,14 @@ public class MuhammedAbdelGhany implements Developer {
 
 <div align="center">
 
-<a href="https://github.com/Mohammed-Abdelghany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelghany&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelghany&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelghany&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelghany&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Abdelghany&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakNum=00E5FF&currStreakLabel=7C3AED&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=Mohammed-Abdelghany&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakNum=00E5FF&currStreakLabel=7C3AED&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555555" />
 
 </div>
 
@@ -125,31 +123,38 @@ public class MuhammedAbdelGhany implements Developer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏗️ Featured Project
+## 🏗️ Projects
+
+### 🏦 Secure Banking Microservices
+> 🎓 Training project — [Eazy Bytes] Master Microservices with Spring Boot, Docker & Kubernetes
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║            🏥  DENTIST MANAGEMENT SYSTEM                 ║
+║         🏦  SECURE BANKING MICROSERVICES                 ║
 ║──────────────────────────────────────────────────────────║
-║   Full-stack web app for dental practice management      ║
+║   Cloud-native banking app built with microservices      ║
 ║                                                          ║
-║   ✅  Patient records & complete dental history          ║
-║   ✅  Smart appointment scheduling & reminders           ║
-║   ✅  Role-based access control (JWT Auth)               ║
-║   ✅  Practice analytics dashboard                       ║
-║   ✅  Fully responsive on all devices                    ║
+║   ✅  accounts-service · loans-service · cards-service   ║
+║   ✅  API Gateway + Spring Cloud Config Server           ║
+║   ✅  Service Discovery with Spring Eureka               ║
+║   ✅  OAuth2 + Keycloak Security                         ║
+║   ✅  Event-driven with RabbitMQ & Kafka                 ║
+║   ✅  Resilience4J (Circuit Breaker / Retry)             ║
+║   ✅  Distributed Tracing — Zipkin + Grafana             ║
+║   ✅  Dockerized + Kubernetes (K8s) deployed             ║
 ║──────────────────────────────────────────────────────────║
-║   Backend  →  Laravel · PHP · RESTful API                ║
-║   Frontend →  JavaScript · HTML5 · CSS3                  ║
-║   Database →  MySQL                                      ║
+║   Stack  →  Java · Spring Boot · Spring Cloud            ║
+║   DevOps →  Docker · Kubernetes · Helm                   ║
+║   DB     →  MySQL · Redis                                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Status](https://img.shields.io/badge/Status-✅_Production_Ready-00D9FF?style=flat-square)
-![Architecture](https://img.shields.io/badge/Architecture-MVC_+_Clean_Code-7C3AED?style=flat-square)
-![Tested](https://img.shields.io/badge/Testing-Fully_Tested-2ea44f?style=flat-square)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Abdelghany/secure-banking-microservices)
+![Course](https://img.shields.io/badge/Course-Eazy_Bytes_Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Type](https://img.shields.io/badge/Type-Training_Project-00D9FF?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Spring_Boot_+_K8s-6DB33F?style=flat-square)
 
 </div>
 
@@ -181,7 +186,6 @@ public class MuhammedAbdelGhany implements Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-abd-el-ghany-640716318)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedabdelghany6@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/muahmmed_div)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mohamed.abdlghany.98)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Abdelghany)
 
