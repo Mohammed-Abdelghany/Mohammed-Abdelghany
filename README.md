@@ -102,13 +102,6 @@ public class MuhammedAbdelGhany implements Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Abdelghany&show_icons=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdelghany&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mohammed-Abdelghany&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B6B&currStreakNum=00E5FF&currStreakLabel=7C3AED&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555555" />
 
 </div>
